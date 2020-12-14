@@ -3,8 +3,10 @@
 out/
 .idea/
 
+
 # System specific
 .DS_Store
+
 
 # Maven
 target/
